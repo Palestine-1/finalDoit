@@ -258,7 +258,7 @@ export const ResultCard: React.FC<ResultCardProps> = ({ student, isDarkMode = fa
                         <h5 className="text-xl font-bold text-yellow-200">التاريخ الهجري</h5>
                       </div>
                       <p className="text-2xl font-bold text-white">
-                        الخميس، ١٨ صفر ١٤٤٧ هـ
+                        الخميس، 19 ربيع الأول 1447هـ
                       </p>
                     </div>
                     
